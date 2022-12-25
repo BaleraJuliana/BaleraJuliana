@@ -28,13 +28,6 @@ Tenho 29 anos, moro em Jacareí/SP e sou apaixonada por programação, biologia 
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title = "POSTGRESQL"/>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/>
 </p>
-</br>
-</br>
-
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/balerajuliana) ou pelo [Linkedin](https://www.linkedin.com/in/juliana-balera-5b6860200/) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
-
-</br>
-</br>
 
 ##
 <p align="center">
