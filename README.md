@@ -16,7 +16,7 @@
 ## Ooi!!
 Tenho 29 anos, moro em Jacareí/SP e sou apaixonada por programação, biologia e doguinhos! ❤ Atualmente sou aluna de doutorado no Instituto Nacional de Pesquisas Espaciais (INPE) e minha linha de pesquisa é a aplicação de hiper-heurísticas a teste de interfaces WEB.
 
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ Tecnologias e Ferramentas 
 <p align="left">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/>
