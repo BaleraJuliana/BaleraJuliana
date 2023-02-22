@@ -14,7 +14,7 @@
 </div>
 
 ## Ooi!!
-Tenho 29 anos, moro em Jacareí/SP e sou apaixonada por programação, biologia e doguinhos! ❤ Atualmente sou aluna de doutorado no Instituto Nacional de Pesquisas Espaciais (INPE) e minha linha de pesquisa é a aplicação de hiper-heurísticas a teste de interfaces WEB.
+Tenho 29 anos, moro em Jacareí/SP e sou apaixonada por programação, biologia e doguinhos! ❤ Tenho experiência no desenvolvimento fullstack com as tecnologias Ruby, Java, Typescript e Reactjs. Atuo também no desenvolvimento de documentação de software e escrita de testes em todas as fases (unitário, integração, interface, carga, vulnerabilidade). Possuo doutorado em Computação Aplicada pelo Instituto Nacional de Pesquisas Espaciais (INPE) e minha linha de pesquisa é a aplicação de hiper-heurísticas a teste de interfaces WEB.
 
 ### 🖥️ Tecnologias e Ferramentas 
 <p align="left">
