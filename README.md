@@ -13,10 +13,10 @@
   </a>
 </div>
 
-## Ooi!!
-Tenho 29 anos, moro em Jacareí/SP e sou apaixonada por programação, biologia e doguinhos! ❤ Tenho experiência no desenvolvimento fullstack com as tecnologias Ruby, Java, Typescript e Reactjs. Atuo também no desenvolvimento de documentação de software e escrita de testes em todas as fases (unitário, integração, interface, carga, vulnerabilidade). Possuo doutorado em Computação Aplicada pelo Instituto Nacional de Pesquisas Espaciais (INPE) e minha linha de pesquisa é a aplicação de hiper-heurísticas a teste de interfaces WEB.
+## Hi!!
+I'm 29 years old, I live in Jacareí/SP and I'm passionate about programming, biology and doggies! ❤ I have experience in fullstack development with Ruby, Java, Typescript and Reactjs technologies. I also work in the development of software documentation and writing tests in all phases (unit, integration, interface, load, vulnerability). I have a PhD in Applied Computing from the National Institute for Space Research (INPE) and my line of research is the application of hyperheuristics to test WEB interfaces.
 
-### 🖥️ Tecnologias e Ferramentas 
+### 🖥️ Technologies and Tools
 <p align="left">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/>
