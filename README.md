@@ -14,7 +14,7 @@
 </div>
 
 ## Hi!!
-I'm 29 years old, I live in Jacareí/SP and I'm passionate about programming, biology and doggies! ❤ I have experience in fullstack development with Ruby, Java, Typescript and Reactjs technologies. I also work in the development of software documentation and writing tests in all phases (unit, integration, interface, load, vulnerability). I have a PhD in Applied Computing from the National Institute for Space Research (INPE) and my line of research is the application of hyperheuristics to test WEB interfaces.
+I'm 29 years old, I live in Jacareí/SP and I'm passionate about programming and doggies! ❤ I have experience with fullstack development with Ruby, Java, Typescript and Reactjs technologies. I also work in the development of software documentation and writing tests in all phases (unit, integration, interface, load, vulnerability). I have a PhD in Applied Computing from the National Institute for Space Research (INPE) and my line of research is the application of hyperheuristics to test WEB interfaces.
 
 ### 🖥️ Technologies and Tools
 <p align="left">
